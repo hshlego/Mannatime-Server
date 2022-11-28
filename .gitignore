@@ -49,3 +49,6 @@ src/main/resources/Credentials.json
 /src/main/resources/aws.yaml
 /logs/
 /src/main/generated/com/schedch/mvp/mapper/
+/appsepc.yml
+/buildspec.yml
+/scripts
